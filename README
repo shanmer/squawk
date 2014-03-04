@@ -1,0 +1,4 @@
+Project: squawk
+Description: A command line utility to post tweets using a PHP file
+Author: Simon Hanmer (simon.hanmer@gmail.com)
+Git repository: git@github.com:shanmer/squawk.git
