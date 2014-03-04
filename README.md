@@ -1,4 +1,0 @@
-squawk
-======
-
-PHP Twitter poster
